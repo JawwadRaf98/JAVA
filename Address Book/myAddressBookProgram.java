@@ -32,7 +32,6 @@ public class myAddressBookProgram {
                     break;
 
                 case 4:
-                    ad.saveContact();
                     System.exit(0);
             }
 
