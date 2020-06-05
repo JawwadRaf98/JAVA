@@ -13,7 +13,7 @@ public class GuiTable {
         }
         else{
             for(int i = 1; i<=multiple;i++){
-                JOptionPane.showMessageDialog(null, number+" X "+i+" = "+i*number);
+                JOptionPane.showMessageDialog(null, number+" X "+i+" = "+i*number+"\n");
             }
         }
     }
